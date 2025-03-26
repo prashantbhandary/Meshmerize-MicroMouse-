@@ -11,7 +11,7 @@ After countless hours of designing, coding, and testing, our bot successfully ex
 ## 🔧 Tech Stack & Components:
 
 1. **Microcontroller**: Arduino Nano
-2. **Motor Driver**: L298N
+2. **Motor Driver**: L293D
 3. **Sensors**: QTR sensors for accurate line detection
 4. **Motors**: N20 gear motor with 6v-500rpm
 5. **Power Management**: Buck Converter and different voltage regulators for stable power delivery to microcontroller, sensors, and motors
