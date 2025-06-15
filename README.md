@@ -14,7 +14,7 @@ After countless hours of designing, coding, and testing, our bot successfully ex
 
 ## Micro-mouse  Image 
 
-![MIcro Mouse ](IMG/img1.jpg)
+![MIcro Mouse ](IMG/img2.jpg)
 ![MIcro Mouse ](IMG/mouse.jpg)
 ![MIcro Mouse ](IMG/adv.jpg)
 
