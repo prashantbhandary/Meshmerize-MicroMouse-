@@ -6,7 +6,21 @@ Our Micromouse secured the following positions:
 - 2nd Place at **Delta 5.0- Dharan IOE**  
 - 5th Place at **Techfest, IIT Bombay 2024**
 
+## Certificate of IIT
+![MIcro Mouse ](IMG/iit.jpg)
+
+
 After countless hours of designing, coding, and testing, our bot successfully explored and solved the maze, executing the shortest path with precision and speed.
+
+## Micro-mouse  Image 
+
+![MIcro Mouse ](IMG/mouse.jpg)
+![MIcro Mouse ](IMG/adv.jpg)
+
+## Micro-mouse Video
+
+▶️ [Watch MicroMouse Demo](./IMG/iit_bombay.mp4)
+
 
 ## 🔧 Tech Stack & Components:
 
